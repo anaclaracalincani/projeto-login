@@ -44,5 +44,15 @@ section#login > div#imagem {
 }
 
 section#login > div#formulario {
-    padding: 30px; /* O segredo para não ficar grudado na borda! */
+    padding: 20px; /* O segredo para não ficar grudado na borda! */
+}
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p {
+    text-align: justify;
+    font-size: 0.8em;
 }
